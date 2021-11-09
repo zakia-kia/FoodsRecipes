@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.azzaqihaq.resepmakanan">
+    package="com.zakia.resepmakanan">
 
     <uses-permission android:name="android.permission.INTERNET" />
 
@@ -12,15 +12,15 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         android:usesCleartextTraffic="true">
-        <activity android:name="com.azzaqihaq.resepmakanan.activities.MainActivity">
+        <activity android:name="com.zakia.resepmakanan.activities.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.azzaqihaq.resepmakanan.activities.DetailRecipeActivity" />
-        <activity android:name="com.azzaqihaq.resepmakanan.activities.FilterFoodActivity" />
+        <activity android:name="com.zakia.resepmakanan.activities.DetailRecipeActivity" />
+        <activity android:name="com.zakia.resepmakanan.activities.FilterFoodActivity" />
     </application>
 
 </manifest>
