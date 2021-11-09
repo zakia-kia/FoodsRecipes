@@ -45,7 +45,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginStart="1dp"
-                android:text="Hello, Daffa!"
+                android:text="Hello, zakia!"
                 android:textColor="@android:color/black"
                 android:textSize="16sp" />
 
@@ -54,7 +54,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginTop="10dp"
                 android:text="@string/quotes"
-                android:textSize="24dp"
+                android:textSize="20dp"
                 android:textStyle="bold" />
 
         </LinearLayout>

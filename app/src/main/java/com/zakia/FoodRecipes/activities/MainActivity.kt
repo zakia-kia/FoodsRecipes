@@ -1,4 +1,4 @@
-package com.zakia.resepmakanan.activities
+package com.zakia.FoodRecipes.activities
 
 import android.app.Activity
 import android.app.ProgressDialog
@@ -16,10 +16,10 @@ import com.androidnetworking.AndroidNetworking
 import com.androidnetworking.common.Priority
 import com.androidnetworking.error.ANError
 import com.androidnetworking.interfaces.JSONObjectRequestListener
-import com.zakia.resepmakanan.R
-import com.zakia.resepmakanan.adapter.MainAdapter
-import com.zakia.resepmakanan.model.ModelMain
-import com.zakia.resepmakanan.networking.Api
+import com.zakia.FoodRecipes.R
+import com.zakia.FoodRecipes.adapter.MainAdapter
+import com.zakia.FoodRecipes.model.ModelMain
+import com.zakia.FoodRecipes.networking.Api
 import kotlinx.android.synthetic.main.activity_main.*
 import org.json.JSONException
 import org.json.JSONObject

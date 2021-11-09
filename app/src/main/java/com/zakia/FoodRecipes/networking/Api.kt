@@ -1,4 +1,4 @@
-package com.zakia.resepmakanan.networking
+package com.zakia.FoodRecipes.networking
 
 /**
  * Created by Azhar Rivaldi on 22-12-2019.

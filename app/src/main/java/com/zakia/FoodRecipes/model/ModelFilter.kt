@@ -1,4 +1,4 @@
-package com.zakia.resepmakanan.model
+package com.zakia.FoodRecipes.model
 
 import java.io.Serializable
 

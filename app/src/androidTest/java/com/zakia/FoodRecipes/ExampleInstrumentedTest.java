@@ -1,4 +1,4 @@
-package com.zakia.resepmakanan;
+package com.zakia.FoodRecipes;
 
 import android.content.Context;
 

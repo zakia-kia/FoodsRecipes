@@ -1,4 +1,4 @@
-package com.zakia.resepmakanan.adapter;
+package com.zakia.FoodRecipes.adapter;
 
 import android.content.Context;
 import android.view.LayoutInflater;
@@ -10,8 +10,8 @@ import android.widget.TextView;
 import androidx.cardview.widget.CardView;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.zakia.resepmakanan.R;
-import com.zakia.resepmakanan.model.ModelFilter;
+import com.zakia.FoodRecipes.R;
+import com.zakia.FoodRecipes.model.ModelFilter;
 import com.bumptech.glide.Glide;
 import com.bumptech.glide.load.engine.DiskCacheStrategy;
 

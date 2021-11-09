@@ -1,4 +1,4 @@
-package com.zakia.resepmakanan.model;
+package com.zakia.FoodRecipes.model;
 
 /**
  * Created by Azhar Rivaldi on 22-12-2019.

@@ -1,4 +1,4 @@
-package com.zakia.resepmakanan;
+package com.zakia.FoodRecipes;
 
 import org.junit.Test;
 
